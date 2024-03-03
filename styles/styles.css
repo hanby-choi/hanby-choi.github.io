@@ -1,0 +1,13 @@
+.wrapper {
+  position: relative;
+  background-image: linear-gradient(to bottom right, #91defe, #99c0f9);
+  height: 100%;
+  width: 100%;
+}
+.name {
+  font-size: 10rem;
+  font-family: 'Nelliy';
+  color: white;
+  text-align: center;
+  margin-top: 40vh;
+}
